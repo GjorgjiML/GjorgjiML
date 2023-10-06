@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GjorgjiML
 - 👀 I’m interested in AI,Gaming,Programming
-- 🌱 I’m currently learning Astro
+- 🌱 I’m currently learning Astro.build
 - 📫 How to reach me email:gjorgji.mladenovski@logicna-podloga.com
 
 <!---
