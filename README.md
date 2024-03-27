@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GjorgjiML
 - 👀 I’m interested in AI,Gaming,Programming
-- 🌱 I’m currently learning Astro 4.0
+- 🌱 I’m currently learning MEVN Stack
 - 📫 How to reach me email:gjorgji.mladenovski@logicna-podloga.com
 
 <!---
